@@ -1,0 +1,4 @@
+/home/csc4005/Desktop/a2/csc4005-imgui_seq/build/CMakeFiles/rebuild_cache.dir
+/home/csc4005/Desktop/a2/csc4005-imgui_seq/build/CMakeFiles/edit_cache.dir
+/home/csc4005/Desktop/a2/csc4005-imgui_seq/build/CMakeFiles/csc4005_imgui.dir
+/home/csc4005/Desktop/a2/csc4005-imgui_seq/build/CMakeFiles/core.dir
